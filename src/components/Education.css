@@ -1,0 +1,19 @@
+.textAlignmentLeft {
+  text-align: left;
+}
+.textAlignmentRight {
+  text-align: right;
+}
+.eduComp {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.eduCards {
+  opacity: 0.93 !important;
+  overflow: hidden !important;
+  transition: all 0.4s ease 0s !important;
+}
+.eduCards:hover {
+  transform: scale(1.05) !important;
+  overflow: hidden !important;
+}

@@ -6,6 +6,7 @@ import cowinDash from "../../Assets/Projects/cowinDash.png";
 import libDesk from "../../Assets/Projects/libDesk.png";
 import muckIn from "../../Assets/Projects/muckIn.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
+import memepoint from "../../Assets/Projects/memepoint.png";
 
 function Projects() {
   return (
@@ -68,13 +69,23 @@ function Projects() {
               demoLink="https://muckin.netlify.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={memepoint}
+              isBlog={false}
+              title="Meme Point"
+              description="A website to create and share memes with your friends and family. It has features like Create, Read, Update, Delete"
+              ghLink="https://github.com/gdscnitp/ngo-donations-site"
+              demoLink="https://muckin.netlify.app/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={muckIn}
               isBlog={false}
               title="NGO Donation Site - MuckIN"
-              description="An NGO Donation Site which aims at connecting needy people and people wishing to donate through NGOs. People willing to donate can come and post their stuff and from there NGO volunteers can contact them and deliver it to the needy people. It has features like Create, Update, Delete"
+              description="An NGO Donation Site which aims at connecting needy people and people wishing to donate through NGOs. People willing to donate can come and post their stuff and from there NGO volunteers can contact them and deliver it to the needy people. It has features like Create, Read, Update, Delete"
               ghLink="https://github.com/gdscnitp/ngo-donations-site"
               demoLink="https://muckin.netlify.app/"
             />

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.8794171e.css",
+    "main.js": "/My-Portfolio/static/js/main.662dff5e.js",
+    "static/js/415.fc063c41.chunk.js": "/My-Portfolio/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/My-Portfolio/static/js/787.f6e65957.chunk.js",
+    "static/media/Arnav.pdf": "/My-Portfolio/static/media/Arnav.47a570dfa2e844f37f76.pdf",
+    "static/media/libDesk.png": "/My-Portfolio/static/media/libDesk.53e663370709c8f08b0b.png",
+    "static/media/portfolio.png": "/My-Portfolio/static/media/portfolio.4da88983bacc919bbd62.png",
+    "static/media/muckIn.png": "/My-Portfolio/static/media/muckIn.81fadd8d9671711c68a3.png",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/memepoint.png": "/My-Portfolio/static/media/memepoint.e01d2154a4387a486069.png",
+    "static/media/cowinDash.png": "/My-Portfolio/static/media/cowinDash.255a2121b6c56ca14042.png",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/My-Portfolio/static/media/logo.9dd13fc970bc3f220981.png",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.8794171e.css.map": "/My-Portfolio/static/css/main.8794171e.css.map",
+    "main.662dff5e.js.map": "/My-Portfolio/static/js/main.662dff5e.js.map",
+    "415.fc063c41.chunk.js.map": "/My-Portfolio/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/My-Portfolio/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8794171e.css",
+    "static/js/main.662dff5e.js"
+  ]
+}

@@ -9,7 +9,6 @@ import Particle from "../Particle";
 import Projects from "../Projects/Projects";
 import ResumeNew from "../Resume/ResumeNew";
 import Skills from "../Skills";
-import Home2 from "./Home2";
 import Type from "./Type";
 
 function Home() {

@@ -55,10 +55,6 @@ function Techstack() {
         <DiGit />
         <h4>Git & Github</h4>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
-        <h4>Firebase</h4>
-      </Col>
     </Row>
   );
 }

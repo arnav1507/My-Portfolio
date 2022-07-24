@@ -65,8 +65,8 @@ function Projects() {
               isBlog={false}
               title="My Portfolio"
               description="My portfolio, which is nothing but this site only, it lists down all about me, my education, the skills I posses, my social media links, etc. It also has Send Mail feature for contacting me easily"
-              ghLink="https://github.com/gdscnitp/ngo-donations-site"
-              demoLink="https://muckin.netlify.app/"
+              ghLink="https://github.com/arnav1507/My-Portfolio"
+              demoLink="https://arnavportfolio.herokuapp.com/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -75,8 +75,8 @@ function Projects() {
               isBlog={false}
               title="Meme Point"
               description="A website to create and share memes with your friends and family. It has features like Create, Read, Update, Delete"
-              ghLink="https://github.com/gdscnitp/ngo-donations-site"
-              demoLink="https://muckin.netlify.app/"
+              ghLink="https://github.com/arnav1507/MemePointNew"
+              demoLink="https://62dc5ea0a363655a9853141b--memepoint.netlify.app/"
             />
           </Col>
 
